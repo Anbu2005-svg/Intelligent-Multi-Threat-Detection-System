@@ -1,0 +1,5 @@
+ultralytics>=8.1.0
+gradio>=3.41.0
+onnxruntime>=1.15.0
+opencv-python-headless>=4.8.0
+numpy>=1.23.0
